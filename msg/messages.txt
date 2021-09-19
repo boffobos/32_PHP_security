@@ -1,0 +1,5 @@
+<message>
+John Doe
+jdoe@example.com
+Test test 2
+</message>
